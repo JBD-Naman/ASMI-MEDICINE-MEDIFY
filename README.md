@@ -45,10 +45,3 @@ The application interacts with the following backend endpoints:
 
 ## Installation
 
-To run this project locally, follow these steps:
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/MayurDange15/MEDIFY.git
-   cd MEDIFY
